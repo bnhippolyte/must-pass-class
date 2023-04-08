@@ -1,2 +1,2 @@
-# must-pass-class
+# beverlynn-hippolyte-compilation
 This is a demo repository 
